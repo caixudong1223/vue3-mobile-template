@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <div>hello world</div>
-    <router-link to="/about">关于</router-link>
   </div>
 </template>
 
